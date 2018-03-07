@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:9:5-25:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\klkch\.android\build-cache\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\klkch\.android\build-cache\0ead2bfbe28797cea3c0fbff71410e3f5a13fdf8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\klkch\.android\build-cache\6bc3d9e9be1167a751e0e9fd42da7ff774966ce1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\klkch\.android\build-cache\77b10b476dfa61497b1b3c32f4b546e6b9944e87\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\klkch\.android\build-cache\0ced50ece0ff962eb0f105ebbb0642972bd882d1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\klkch\.android\build-cache\00dc02e3e77e0155323b10213e31c40ad1d31aaa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\klkch\.android\build-cache\b96e3ffbe6f17a36ed95ea692a8024fcc3385c30\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\klkch\.android\build-cache\f74d3e49cedf4dd172b2c66f9f5f6a0de09fb1c6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\klkch\.android\build-cache\d7bff9f16c9eef5f8949cc818e1a7c4e92d50daa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\klkch\.android\build-cache\a90d9c60026a8a8712a9b7adba631ea046dcdcab\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.myapppark.xylophonessm.MainActivity
+ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:screenOrientation
+		ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:16:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.myapppark.xylophonessm.SavedMusicActivity
+ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:24:9-91
+	android:name
+		ADDED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml:24:19-79
+uses-sdk
+INJECTED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\klkch\.android\build-cache\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\klkch\.android\build-cache\0ead2bfbe28797cea3c0fbff71410e3f5a13fdf8\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\klkch\.android\build-cache\6bc3d9e9be1167a751e0e9fd42da7ff774966ce1\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\klkch\.android\build-cache\77b10b476dfa61497b1b3c32f4b546e6b9944e87\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\klkch\.android\build-cache\0ced50ece0ff962eb0f105ebbb0642972bd882d1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\klkch\.android\build-cache\00dc02e3e77e0155323b10213e31c40ad1d31aaa\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\klkch\.android\build-cache\b96e3ffbe6f17a36ed95ea692a8024fcc3385c30\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\klkch\.android\build-cache\f74d3e49cedf4dd172b2c66f9f5f6a0de09fb1c6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\klkch\.android\build-cache\d7bff9f16c9eef5f8949cc818e1a7c4e92d50daa\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\klkch\.android\build-cache\a90d9c60026a8a8712a9b7adba631ea046dcdcab\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\klkch\.android\build-cache\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\klkch\.android\build-cache\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\klkch\.android\build-cache\0ead2bfbe28797cea3c0fbff71410e3f5a13fdf8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\klkch\.android\build-cache\6bc3d9e9be1167a751e0e9fd42da7ff774966ce1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\klkch\.android\build-cache\77b10b476dfa61497b1b3c32f4b546e6b9944e87\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\klkch\.android\build-cache\0ced50ece0ff962eb0f105ebbb0642972bd882d1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\klkch\.android\build-cache\00dc02e3e77e0155323b10213e31c40ad1d31aaa\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\klkch\.android\build-cache\b96e3ffbe6f17a36ed95ea692a8024fcc3385c30\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\klkch\.android\build-cache\f74d3e49cedf4dd172b2c66f9f5f6a0de09fb1c6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\klkch\.android\build-cache\d7bff9f16c9eef5f8949cc818e1a7c4e92d50daa\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\klkch\.android\build-cache\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\klkch\.android\build-cache\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\output\AndroidManifest.xml:26:9-47

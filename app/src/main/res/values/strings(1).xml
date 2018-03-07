@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">XyloPhone</string>
+    <string name="note1_c">C</string>
+    <string name="note2_d">D</string>
+    <string name="note3_e">E</string>
+    <string name="note4_f">F</string>
+    <string name="note5_g">G</string>
+    <string name="note6_a">A</string>
+    <string name="note7_b">B</string>
+    <string name="note8_c">C</string>
+
+    <string name="recordTune">RECORD</string>
+    <string name="viewSaved">VIEW SAVED</string>
+
+    <string name="recordStart">START</string>
+    <string name="recordStop">STOP </string>
+
+    <string name="menu_item_rename">Rename</string>
+    <string name="menu_item_delete">Delete</string>
+    <string name="menu_item_share">Share</string>
+
+
+    <string name="toast_no_music_saved">No music saved!</string>
+    <string name="toast_mic_busy">Cant record! Microphone is busy.</string>
+    <string name="toast_file_saved">Music file saved succesfully.</string>
+    <string name="toast_permission_granted">Permissions granted. Now you can record, save and listen to your music.</string>
+    <string name="toast_need_permission">You need to allow both permissions to record, save and view music files.</string>
+    <string name="toast_filename_restrictions">Filename should contain only alphabets and numbers.</string>
+    <string name="toast_filename_exists">Filename already exists! Select another.</string>
+    <string name="toast_filename_length">Filename cannot be more than 25 characters long.</string>
+    <string name="toast_file_deleted">File Deleted Succesfully.</string>
+    <string name="toast_no_supported_apps">No supported apps installed!</string>
+</resources>

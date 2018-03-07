@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]

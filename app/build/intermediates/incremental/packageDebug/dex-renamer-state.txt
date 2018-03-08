@@ -1,4 +1,7 @@
-#Tue Mar 06 22:08:29 EST 2018
-base.0=E\:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Wed Mar 07 10:58:18 EST 2018
+base.0=/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0c2b5cec0b32121bead552cc64ee3df5d18cd9a1
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=E\:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1609219649d39f77c18a2f9e364abee6dcd84846/classes.dex
+base.1=/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1609219649d39f77c18a2f9e364abee6dcd84846
+file.0=/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0c2b5cec0b32121bead552cc64ee3df5d18cd9a1/classes.dex

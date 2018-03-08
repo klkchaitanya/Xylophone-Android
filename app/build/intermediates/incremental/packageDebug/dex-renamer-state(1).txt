@@ -1,4 +1,0 @@
-#Tue Mar 06 22:08:29 EST 2018
-base.0=E\:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=E\:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

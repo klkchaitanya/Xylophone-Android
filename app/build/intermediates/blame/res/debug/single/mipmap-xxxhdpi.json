@@ -1,6 +1,10 @@
 [
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
-        "source": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     }
 ]

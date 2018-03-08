@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "file": "/Users/lk7rw/Downloads/Xylophone-Android/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 57,
+                        "endOffset": 348
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

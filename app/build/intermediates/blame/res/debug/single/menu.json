@@ -1,6 +1,10 @@
 [
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\actions.xml",
-        "source": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\src\\main\\res\\menu\\actions.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/menu/actions.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/app/src/main/res/menu/actions.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\actions.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\src\\main\\res\\menu\\actions.xml"
     }
 ]

@@ -2,112 +2,130 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\RequiredSDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_92a2fddae31e07f8d9a84dab385807ea91bc2e2a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\klkch\.android\build-cache\0ced50ece0ff962eb0f105ebbb0642972bd882d1\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\build\intermediates\pre-dexed\debug\classes_83b85368294e28551c7e6ef2944a1b0f4b63635e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\klkch\.android\build-cache\d7bff9f16c9eef5f8949cc818e1a7c4e92d50daa\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\build\intermediates\pre-dexed\debug\classes_50579f0ff2cec62e41c80a93682eaf885156aa0a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\RequiredSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_9d054a9f54772e9d7b6b07a6f32206b6d8cef0a4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\klkch\.android\build-cache\00dc02e3e77e0155323b10213e31c40ad1d31aaa\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\build\intermediates\pre-dexed\debug\classes_c4615733fe15d2016f9b8a6188786e6601509439.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\klkch\.android\build-cache\f74d3e49cedf4dd172b2c66f9f5f6a0de09fb1c6\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\build\intermediates\pre-dexed\debug\classes_d7f651250d5bb35c63fd88356ec13ab8900c7308.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\klkch\.android\build-cache\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\build\intermediates\pre-dexed\debug\classes_8f506ef4df9e8bee651d85b380579510f69d2c52.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\klkch\.android\build-cache\0ead2bfbe28797cea3c0fbff71410e3f5a13fdf8\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\build\intermediates\pre-dexed\debug\classes_3058c8abaa46cc2a45fdc0aee93fe3828520da71.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\klkch\.android\build-cache\a90d9c60026a8a8712a9b7adba631ea046dcdcab\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\build\intermediates\pre-dexed\debug\classes_48f49151d8fd0ab75022de945f21b34ef1af8c2a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\klkch\.android\build-cache\b96e3ffbe6f17a36ed95ea692a8024fcc3385c30\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\build\intermediates\pre-dexed\debug\classes_aeefbdcad5263132e71fbb18ead7253975b01c5b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\klkch\.android\build-cache\6bc3d9e9be1167a751e0e9fd42da7ff774966ce1\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\build\intermediates\pre-dexed\debug\classes_b39c8adb7ef5b30628f2abd4a1c032d1048c1119.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\klkch\.android\build-cache\77b10b476dfa61497b1b3c32f4b546e6b9944e87\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/lk7rw/.android/build-cache/0024ebe1baa0a8fcbfe0cf8a8735476e81b8ae13/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="E:\SOFTWARES\SETUPS\AndroidStudio_3.0.1\AndroidStudioProjects\Xylophone-Android\app\build\intermediates\pre-dexed\debug\classes_75bee51825020ab34dcf2d759c8d5d91ffd4c3f7.jar" />
+        <dex dex="/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe504c57f091fcbfa4a0de277024403985c3d6b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lk7rw/.android/build-cache/4eb03fff4efd3ef12a610931148c0be5424c20fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18cd8da5604d6ad361b7c86dae872ff412cf3f61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lk7rw/.android/build-cache/1343ff84fb76be4b21674fea6a469ee660130665/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d7a3f85649c2d423c9b5f492e6c9dadcc7d29ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lk7rw/.android/build-cache/fb7344dd1b7db38205a684867512959ef9c36e85/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d63855cf1a5b4dc5235a5039ef176c9645765d22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lk7rw/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_16962e51a0e37f2ed2507bf50d8a55511b78dab1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lk7rw/.android/build-cache/0ca33cf3d2e754f14706288f8c2d01cd9f54dcfc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb76daf6f85fc328f5ad1c9fcbe99c2ba3e5674f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f2289baea63f061aa4f1e4d725b33c277b35f20">
+        <dex dex="/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0c2b5cec0b32121bead552cc64ee3df5d18cd9a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lk7rw/.android/build-cache/452cd2a3f0dd75ec8688a82b62c145c2dcbbe290/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f678ee49df9e26ac86c5a1016cebf9b0d43b6ca1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lk7rw/.android/build-cache/8b17c14a311f8e7e5d2da54152fecf191ea0daa4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_49392016379cb79e3b30e28229d0be083062f3d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lk7rw/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_50b14d519a35085803f03732fdcef18a6713077f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lk7rw/.android/build-cache/b325349962c06d912645abdc897f591fa85d913e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ffcc574a492fa7330c40750deae4882847278ea3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1609219649d39f77c18a2f9e364abee6dcd84846/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9adadf9c1ed70b1ae665ea4ffc5c2613f5d804e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lk7rw/.android/build-cache/47366af36f2a32895182e2a5ca3b2f708d1000ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7df7f865833fdf722d9575891ee267e23c7b2aaa/classes.dex" />
     </item>
 
 </items>

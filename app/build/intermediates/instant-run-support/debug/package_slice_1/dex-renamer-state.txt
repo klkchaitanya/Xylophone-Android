@@ -1,0 +1,4 @@
+#Wed Mar 07 10:58:18 EST 2018
+base.0=/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1
+renamed.0=classes.dex
+file.0=/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex

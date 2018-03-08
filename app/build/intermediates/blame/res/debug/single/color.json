@@ -1,82 +1,162 @@
 [
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_tint_spinner.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_search_url_text.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/switch_thumb_material_dark.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_btn_colored_text_material.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_tint_edittext.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_tint_default.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_tint_switch_thumb.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/abc_tint_edittext.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_tint_switch_track.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_tint_seek_thumb.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\color\\abc_tint_btn_checkable.xml"
     }
 ]

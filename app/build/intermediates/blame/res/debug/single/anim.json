@@ -1,42 +1,82 @@
 [
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/lk7rw/.android/build-cache/4e430c96cdbf8ca57e38342a5e36029760dc6a9a/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/lk7rw/Downloads/Xylophone-Android/E:\\SOFTWARES\\SETUPS\\AndroidStudio_3.0.1\\AndroidStudioProjects\\Xylophone-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/Users/lk7rw/Downloads/Xylophone-Android/C:\\Users\\klkch\\.android\\build-cache\\2da08652d01c9f9c6c4869f7c5a4f65f058d67ec\\output\\res\\anim\\abc_slide_in_bottom.xml"
     }
 ]
